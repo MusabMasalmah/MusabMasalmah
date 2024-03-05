@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MusabMasalmah
+- 👀 I am interested in programming
+- 🌱 I am currently studying at Birzeit University
+- 💞️ I look forward to training in distinguished programming companies
+- 📫 How to reach me? - Through the Facebook account on my page, or my WhatsApp number
