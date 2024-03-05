@@ -10,6 +10,7 @@ Here are some of the technologies and tools I'm familiar with:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![XML](https://img.shields.io/badge/XML-555555?style=for-the-badge&logo=xml&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Shell](https://img.shields.io/badge/Shell_Script-121D33?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - Hardware: 
   ![Verilog](https://img.shields.io/badge/Verilog-4285F4?style=for-the-badge&logoColor=white)
 - Databases: 
@@ -35,6 +36,6 @@ I'm currently focused on improving my skills in:
 
 - LinkedIn: [Musab Masalmah](https://www.linkedin.com/in/musab-masalmah-b992042b8)
 - Facebook: [Musab Masalmah](https://www.facebook.com/profile.php?id=100006919663051&mibextid=kFxxJD)
-- Whatup: [Musab Masalmah](+970 595 811 938)
+- WhatsApp: [+970 595 811 938](tel:+970595811938)
 
 Feel free to reach out, and let's collaborate on something exciting! 😊
