@@ -1,7 +1,6 @@
 # Hello, I'm Musab Masalmah! 👋
 
-![Musab Masalmah](https://github.com/YourGitHubUsername/YourRepositoryName/raw/main/path/to/your/photo.jpg)
-
+![Musab Masalmah](https://avatars.githubusercontent.com/u/129512609?s=400&u=edee084db91932140a47bbed632139ad8a89aaab&v=4)
 
 ## 🔧 Technologies & Tools
 
