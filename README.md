@@ -1,5 +1,8 @@
 # Hello, I'm Musab Masalmah! 👋
 
+![Musab Masalmah](https://github.com/YourGitHubUsername/YourRepositoryName/raw/main/path/to/your/photo.jpg)
+
+
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I'm familiar with:
