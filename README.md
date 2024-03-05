@@ -23,7 +23,7 @@ I'm currently focused on improving my skills in:
 - ![Web Development](https://img.shields.io/badge/Web_Development-0078D4?style=for-the-badge&logo=html5&logoColor=white)
 - ![Mobile Apps Development](https://img.shields.io/badge/Mobile_Apps_Development-3DDC84?style=for-the-badge&logo=react&logoColor=white)
 
-## 📊 GitHub Stats
+## ⭐️ GitHub Stats
 
 ![Musab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusabMasalmah&show_icons=true&theme=radical)
 
@@ -34,5 +34,7 @@ I'm currently focused on improving my skills in:
 ## 📫 Let's Connect
 
 - LinkedIn: [Musab Masalmah](https://www.linkedin.com/in/musab-masalmah-b992042b8)
+- Facebook: [Musab Masalmah](https://www.facebook.com/profile.php?id=100006919663051&mibextid=kFxxJD)
+- Whatup: [Musab Masalmah](+970 595 811 938)
 
 Feel free to reach out, and let's collaborate on something exciting! 😊
