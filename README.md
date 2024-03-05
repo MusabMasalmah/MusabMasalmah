@@ -19,17 +19,17 @@ Here are some of the technologies and tools I'm familiar with:
 
 I'm currently focused on improving my skills in:
 
-- ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white) Block Chain Technology.
-- ![Web Development](https://img.shields.io/badge/Web_Development-0078D4?style=for-the-badge&logo=html5&logoColor=white) Web Development.
-- ![Mobile Apps Development](https://img.shields.io/badge/Mobile_Apps_Development-3DDC84?style=for-the-badge&logo=react&logoColor=white) Mobile Apps Development.
+- ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white) 
+- ![Web Development](https://img.shields.io/badge/Web_Development-0078D4?style=for-the-badge&logo=html5&logoColor=white)
+- ![Mobile Apps Development](https://img.shields.io/badge/Mobile_Apps_Development-3DDC84?style=for-the-badge&logo=react&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![Musab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Musab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusabMasalmah&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
 
-![Musab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Musab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusabMasalmah&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
