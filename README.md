@@ -38,6 +38,7 @@ I'm currently focused on improving my skills in:
 
 - LinkedIn: [Musab Masalmah](https://www.linkedin.com/in/musab-masalmah-b992042b8)
 - Facebook: [Musab Masalmah](https://www.facebook.com/profile.php?id=100006919663051&mibextid=kFxxJD)
+- Gmail: [Musab Masalmah](musabsoos10@gmail.com)
 - WhatsApp: [+970 595 811 938](tel:+970595811938)
 
 Feel free to reach out, and let's collaborate on something exciting! 😊
