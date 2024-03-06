@@ -28,7 +28,7 @@ I'm currently focused on improving my skills in:
 
 ## ⭐️ GitHub Stats
 
-![Musab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusabMasalmah&show_icons=true&theme=radical)
+![Musab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusabMasalma&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
 
