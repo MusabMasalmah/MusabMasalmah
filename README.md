@@ -1,5 +1,9 @@
 # Hello, I'm Musab Masalmah! 👋
-
+I am a Software Developer and a computer engineering student in his fourth year of 
+study. I have experience with Data Structure, Data Bases, Hardware and developing 
+a mobile applications,. I have also pursued additional courses as Full Stack Web 
+Development, I have excellent skills in communicating with others, and I also have a 
+high ability to organize the work of the teams in which I work.
 ![Musab Masalmah](https://avatars.githubusercontent.com/u/129512609?s=400&u=edee084db91932140a47bbed632139ad8a89aaab&v=4)
 
 ## 🔧 Technologies & Tools
@@ -20,7 +24,7 @@ Here are some of the technologies and tools I'm familiar with:
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 - Mobile App Development:  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Android Development: Java is used for developing Android applications.
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
 ## 🌱 I'm Currently Learning
