@@ -13,10 +13,15 @@ Here are some of the technologies and tools I'm familiar with:
   ![XML](https://img.shields.io/badge/XML-555555?style=for-the-badge&logo=xml&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell_Script-121D33?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- Hardware: 
+- Hardware:   
   ![Verilog](https://img.shields.io/badge/Verilog-4285F4?style=for-the-badge&logoColor=white)
-- Databases: 
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- Databases:   
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- Mobile App Development:  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Android Development: Java is used for developing Android applications.
+
 
 ## 🌱 I'm Currently Learning
 
