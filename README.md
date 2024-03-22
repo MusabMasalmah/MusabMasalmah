@@ -4,7 +4,6 @@ study. I have experience with Data Structure, Data Bases, Hardware and developin
 a mobile applications,. I have also pursued additional courses as Full Stack Web 
 Development, I have excellent skills in communicating with others, and I also have a 
 high ability to organize the work of the teams in which I work.
-![Musab Masalmah](https://avatars.githubusercontent.com/u/129512609?s=400&u=edee084db91932140a47bbed632139ad8a89aaab&v=4)
 
 ## 🔧 Technologies & Tools
 
